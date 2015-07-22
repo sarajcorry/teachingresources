@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://cognition.shaffermusic.com
-title: Music Cognition
+url: http://teachingresources.shaffermusic.com
+title: "Teaching Resources, Music Theory and Aural Skills"
 email: kris.shaffer@colorado.edu
-description: "PSYC 4541, CU–Boulder"
+description: "CU–Boulder College of Music"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -23,4 +23,4 @@ social:
   - title: twitter
     url: https://twitter.com/krisshaffer
   - title: github
-    url: https://github.com/kshaffer/cognition
+    url: https://github.com/kshaffer/teachingresources
