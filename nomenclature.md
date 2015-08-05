@@ -15,24 +15,57 @@ Lead-sheet symbols reflect the chord root and quality. The chord root is always 
 
 Standard triads are as follows:
 
-- major triad: C  
-- minor triad: Dm or D<sup>m</sup>  
-- augmented triad: G<sup>aug</sup> or G<sup>+</sup>  
-- diminished triad: B<sup>dim</sup> or B°  
+major triad: 
+
+> C  
+
+minor triad: 
+
+> Dm or D<sup>m</sup>  
+
+augmented triad: 
+
+> G<sup>aug</sup> or G<sup>+</sup>  
+
+diminished triad: 
+
+> B<sup>dim</sup> or B°  
 
 Seventh chords are as follows:
 
-- major-seventh chord: C<sup>maj7</sup> or C<sup>M7</sup>  
-- dominant-seventh chord: B&#9837;<sup>7</sup>  
-- minor-seventh chord: A<sup>m7</sup>  
-- fully-diminished-seventh chord: D°<sup>7</sup>  
-- half-diminished-seventh chord: F#<sup>ø7</sup>
+major-seventh chord: 
+
+> C<sup>maj7</sup> or C<sup>M7</sup>  
+
+dominant-seventh chord: 
+
+> B&#9837;<sup>7</sup>  
+
+minor-seventh chord: 
+
+> A<sup>m7</sup>  
+
+fully-diminished-seventh chord: 
+
+> D°<sup>7</sup>  
+
+half-diminished-seventh chord: 
+
+> F#<sup>ø7</sup>
 
 Inversions are shown with a slash. Use the lead-sheet symbol for the chord, followed by a slash, followed by the bass note. Following are a few examples.
 
-- first-inversion A-minor triad: Am/C  
-- second-inversion C-augmented triad: C<sup>+</sup>/G#  
-- third-inversion A-dominant-seventh chord: A<sup>7</sup>/G
+first-inversion A-minor triad: 
+
+> Am/C  
+
+second-inversion C-augmented triad: 
+
+> C<sup>+</sup>/G&#9839;  
+
+third-inversion A-dominant-seventh chord: 
+
+> A<sup>7</sup>/G
 
 ### Roman numerals
 
