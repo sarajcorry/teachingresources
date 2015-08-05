@@ -1,6 +1,6 @@
 ---
 layout: default
-image: schemasSmall.jpg
+image: boulderSkySmall.jpg
 category: Services
 title: Teaching at CU–Boulder
 description: |
