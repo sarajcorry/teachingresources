@@ -1,6 +1,6 @@
 ---
 layout: default
-image: spiralSmall.jpg
+image: notationSmall.jpg
 category: Services
 title: Music theory nomenclature
 description: |

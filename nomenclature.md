@@ -2,7 +2,7 @@
 layout: page
 title: Music theory nomenclature
 subTitle: "Music Theory and Aural Skills<br/>CU–Boulder, Dept. of Music Theory"
-image: control.jpg
+image: notation.jpg
 ---
 
 This guide contains the standard terminology and nomenclature for core theory and aural skills courses at CU–Boulder.
