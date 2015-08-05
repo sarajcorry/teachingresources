@@ -4,5 +4,5 @@ image: memorySmall.jpg
 category: Services
 title: General pedagogy resources
 description: |
-  <p class="lead"><b>General pedagogy resources.</b><br/><br/>Articles on teaching — music theory, aural skills, and in general. Online resources for music classes.<br/><br/><a href="/pedagogy/">Read more...</a></p>
+  <p class="lead">Articles on teaching — music theory, aural skills, and in general. Online resources for music classes.<br/><br/><a href="/pedagogy/">Read more...</a></p>
 ---
