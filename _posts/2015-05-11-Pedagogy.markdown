@@ -1,6 +1,6 @@
 ---
 layout: default
-image: memorySmall.jpg
+image: stringSmall.jpg
 category: Services
 title: General pedagogy resources
 description: |
