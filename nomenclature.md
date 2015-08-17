@@ -161,15 +161,17 @@ Pedal 6/4:
 
 > Ped6/4
 
-Cadential 6/4 (resolving to V<sup>(7)</sup>):
+Cadential 6/4 (resolving to V<sup>(7)</sup>) – two options:
 
 > V — (with 6/4 – 5/3 or 8/6/4 – 7/5/3 above)
+
+> Cad6/4
 
 ### Cadences
 
 Perfect authentic cadence (PAC): root-position V<sup>(7)</sup> to root-position I, melody ends on *do*.
 
-Imperfect authentic cadence (PAC): root-position V<sup>(7)</sup> to root-position I, melody ends on *mi/me* or *sol*.
+Imperfect authentic cadence (IAC): root-position V<sup>(7)</sup> to root-position I, melody ends on *mi/me* or *sol*.
 
 Half cadence (HC): phrase-ending root-position V<sup>(7)</sup>.
 
